@@ -127,7 +127,7 @@ public class Kelimelik extends javax.swing.JFrame {
 
                 @Override
                 public void mousePressed(MouseEvent me) {
-                    //throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+                    System.out.println("Deneme yapılmak için yazılmıştır");
                 }
 
                 @Override
